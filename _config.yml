@@ -1,2 +1,3 @@
 name: Deokju Jung
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
